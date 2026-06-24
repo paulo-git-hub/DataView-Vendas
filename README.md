@@ -37,7 +37,7 @@ O DataView PY é um projeto de análise exploratória de dados (EDA) de vendas, 
 4. Execute o script.
 
 ## Estrutura do projeto
-
+```
 DataView-Vendas/
 ├── data/
 │   ├── raw/
@@ -60,3 +60,4 @@ DataView-Vendas/
 ├── notebooks/
 │	└──dataview.ipynb
 └── README.md/	
+```
