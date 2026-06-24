@@ -57,6 +57,6 @@ DataView-Vendas/
 │       ├── dist_regiao.png
 │       ├── receita_por_mes.png
 │       └── top_produtos.png
-├── README.md/
-│
-└── dataview.ipynb
+├── notebooks/
+│	└──dataview.ipynb
+└── README.md/	
