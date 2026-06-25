@@ -59,5 +59,17 @@ DataView-Vendas/
 │       └── top_produtos.png
 ├── notebooks/
 │	└──dataview.ipynb
+├── videos/
+│	└──apresentacao_do_mini_projeto.mp4
 └── README.md/	
 ```
+
+## Ferramentas utilizadas
+- Python 3.10+
+- Google Colab / VS Code
+- Bibliotecas: pandas, numpy, matplotlib, seaborn, re, datetime, os, random
+- GitHub para versionamento
+
+## Vídeo de demonstração
+https://youtu.be/nLsln3jHhpM?si=me_4ieLREeX8QT-Q
+
